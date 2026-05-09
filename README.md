@@ -1,5 +1,5 @@
 # como fazer o bgl de hoje <br>
-vai no repositorio ||||||
+vai no repositorio |||||| <br>
 aperta em setting (configurações)||||||
 aperta em branches||||||
 vai em "ADD CLASSIC BRANCH PROTECTION RULE", se n for esse, vai dar pipoco||||||
